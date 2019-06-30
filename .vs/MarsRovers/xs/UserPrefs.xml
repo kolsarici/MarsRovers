@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{C6F450BB-0256-42B6-ADA8-1E54FA6D1C83}|Default">
+  <MonoDevelop.Ide.ItemProperties.MarsRovers.Business.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarsRovers.Business.Tests/RoverManagerTest.cs">
+    <Files>
+      <File FileName="MarsRovers.ConsoleUI/Program.cs" Line="52" Column="63" />
+      <File FileName="MarsRovers.Entities/Concrete/Rover.cs" Line="11" Column="27" />
+      <File FileName="MarsRovers.Entities/Enums/Direction.cs" Line="14" Column="27" />
+      <File FileName="MarsRovers.Business/Abstract/IRoverService.cs" Line="10" Column="25" />
+      <File FileName="MarsRovers.Business/Concrete/Managers/RoverManager.cs" Line="91" Column="12" />
+      <File FileName="MarsRovers.Entities/Concrete/Response.cs" Line="8" Column="6" />
+      <File FileName="MarsRovers.Entities/Concrete/Error.cs" Line="23" Column="52" />
+      <File FileName="MarsRovers.Entities/Concrete/Plateau.cs" Line="9" Column="38" />
+      <File FileName="MarsRovers.Business/Concrete/Managers/PlateauManager.cs" Line="25" Column="30" />
+      <File FileName="MarsRovers.Business/Abstract/IPlateauService.cs" Line="8" Column="27" />
+      <File FileName="MarsRovers.Entities/Enums/Path.cs" Line="8" Column="14" />
+      <File FileName="MarsRovers.Business/ExtensionMethods/EnumExtensionMethods.cs" Line="14" Column="79" />
+      <File FileName="MarsRovers.Business.Tests/RoverManagerTest.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarsRovers" expanded="True">
+            <Node name="MarsRovers.Business" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="Managers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MarsRovers.Business.Tests" expanded="True">
+              <Node name="RoverManagerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MarsRovers.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/Concrete/Managers/GridManager.cs" relfile="MarsRovers.Business/Concrete/Managers/GridManager.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

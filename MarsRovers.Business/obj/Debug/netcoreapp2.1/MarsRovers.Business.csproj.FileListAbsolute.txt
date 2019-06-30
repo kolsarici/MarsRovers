@@ -1,0 +1,12 @@
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/bin/Debug/netcoreapp2.1/MarsRovers.Business.deps.json
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/bin/Debug/netcoreapp2.1/MarsRovers.Business.dll
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/bin/Debug/netcoreapp2.1/MarsRovers.Business.pdb
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/bin/Debug/netcoreapp2.1/MarsRovers.Entities.dll
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/bin/Debug/netcoreapp2.1/MarsRovers.Entities.pdb
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.csprojAssemblyReference.cache
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.csproj.CoreCompileInputs.cache
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.AssemblyInfoInputs.cache
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.AssemblyInfo.cs
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.csproj.CopyComplete
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.dll
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/Debug/netcoreapp2.1/MarsRovers.Business.pdb

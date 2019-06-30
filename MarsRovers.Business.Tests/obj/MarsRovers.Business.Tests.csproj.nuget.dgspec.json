@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business.Tests/MarsRovers.Business.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business.Tests/MarsRovers.Business.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business.Tests/MarsRovers.Business.Tests.csproj",
+        "projectName": "MarsRovers.Business.Tests",
+        "projectPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business.Tests/MarsRovers.Business.Tests.csproj",
+        "packagesPath": "/Users/kolsarici/.nuget/packages/",
+        "outputPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kolsarici/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/MarsRovers.Business.csproj": {
+                "projectPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/MarsRovers.Business.csproj"
+              },
+              "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj": {
+                "projectPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/MarsRovers.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/MarsRovers.Business.csproj",
+        "projectName": "MarsRovers.Business",
+        "projectPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/MarsRovers.Business.csproj",
+        "packagesPath": "/Users/kolsarici/.nuget/packages/",
+        "outputPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kolsarici/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj": {
+                "projectPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj",
+        "projectName": "MarsRovers.Entities",
+        "projectPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/MarsRovers.Entities.csproj",
+        "packagesPath": "/Users/kolsarici/.nuget/packages/",
+        "outputPath": "/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/kolsarici/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

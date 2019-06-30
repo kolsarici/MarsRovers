@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Concrete\EmptyClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Concrete\Managers\" />
+    <Folder Include="ExtensionMethods\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MarsRovers.Entities\MarsRovers.Entities.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/bin/Debug/netcoreapp2.1/MarsRovers.Entities.deps.json
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/bin/Debug/netcoreapp2.1/MarsRovers.Entities.dll
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/bin/Debug/netcoreapp2.1/MarsRovers.Entities.pdb
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/obj/Debug/netcoreapp2.1/MarsRovers.Entities.csproj.CoreCompileInputs.cache
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/obj/Debug/netcoreapp2.1/MarsRovers.Entities.AssemblyInfoInputs.cache
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/obj/Debug/netcoreapp2.1/MarsRovers.Entities.AssemblyInfo.cs
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/obj/Debug/netcoreapp2.1/MarsRovers.Entities.dll
+/Users/kolsarici/Projects/MarsRovers/MarsRovers.Entities/obj/Debug/netcoreapp2.1/MarsRovers.Entities.pdb

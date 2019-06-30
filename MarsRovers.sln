@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRovers.ConsoleUI", "MarsRovers.ConsoleUI\MarsRovers.ConsoleUI.csproj", "{C6F450BB-0256-42B6-ADA8-1E54FA6D1C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRovers.Entities", "MarsRovers.Entities\MarsRovers.Entities.csproj", "{73F67A26-05CF-402C-8263-967E52FA7327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRovers.Business", "MarsRovers.Business\MarsRovers.Business.csproj", "{C5206BA3-9DD8-43AE-9D12-603DD515B323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRovers.Business.Tests", "MarsRovers.Business.Tests\MarsRovers.Business.Tests.csproj", "{084D1DDA-279A-4519-A0D2-E5B813A44E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F450BB-0256-42B6-ADA8-1E54FA6D1C83}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C6F450BB-0256-42B6-ADA8-1E54FA6D1C83}.Debug|x86.Build.0 = Debug|Any CPU
+		{C6F450BB-0256-42B6-ADA8-1E54FA6D1C83}.Release|x86.ActiveCfg = Release|Any CPU
+		{C6F450BB-0256-42B6-ADA8-1E54FA6D1C83}.Release|x86.Build.0 = Release|Any CPU
+		{73F67A26-05CF-402C-8263-967E52FA7327}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{73F67A26-05CF-402C-8263-967E52FA7327}.Debug|x86.Build.0 = Debug|Any CPU
+		{73F67A26-05CF-402C-8263-967E52FA7327}.Release|x86.ActiveCfg = Release|Any CPU
+		{73F67A26-05CF-402C-8263-967E52FA7327}.Release|x86.Build.0 = Release|Any CPU
+		{C5206BA3-9DD8-43AE-9D12-603DD515B323}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5206BA3-9DD8-43AE-9D12-603DD515B323}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5206BA3-9DD8-43AE-9D12-603DD515B323}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5206BA3-9DD8-43AE-9D12-603DD515B323}.Release|x86.Build.0 = Release|Any CPU
+		{084D1DDA-279A-4519-A0D2-E5B813A44E95}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{084D1DDA-279A-4519-A0D2-E5B813A44E95}.Debug|x86.Build.0 = Debug|Any CPU
+		{084D1DDA-279A-4519-A0D2-E5B813A44E95}.Release|x86.ActiveCfg = Release|Any CPU
+		{084D1DDA-279A-4519-A0D2-E5B813A44E95}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
